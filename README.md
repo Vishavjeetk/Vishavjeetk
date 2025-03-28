@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishavjeet Singh</h1>
-<h3 align="center">A passionate software developer with one year of experience in mobile and web application development. I specialize in Flutter for mobile apps and React for web applications, building scalable and user-friendly solutions.</h3>
+<h3 align="center">A passionate software developer with experience in mobile and web application development. I specialize in Flutter for mobile apps and React for web applications, building scalable and user-friendly solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishavjeetk&label=Profile%20views&color=0e75b6&style=flat" alt="vishavjeetk" /> </p>
 
